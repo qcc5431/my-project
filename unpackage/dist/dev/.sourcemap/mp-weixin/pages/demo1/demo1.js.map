@@ -1,0 +1,1 @@
+{"version":3,"file":"demo1.js","sources":["pages/demo1/demo1.vue?type=page"],"sourcesContent":["import MiniProgramPage from '/Users/zhoushupeng/Documents/HBuilderProjects/my-app/pages/demo1/demo1.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}
